@@ -118,12 +118,6 @@ class _pageIslamState extends State<pageIslam> {
                       height: 150,
                       thumbnail.toString(),
                       fit: BoxFit.fill,
-                      errorBuilder: (context, error, stackTrace) {
-                        return const Icon(
-                          Icons.shop,
-                          size: 90,
-                        );
-                      },
                     )),
               ],
 
