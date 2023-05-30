@@ -55,9 +55,7 @@ class _BerandaState extends State<Beranda> {
                             Colors.teal),
                       ),
                       onPressed: () {
-                        // Action when button is pressed
                         print('Button $index pressed.');
-                        // Navigasi ke halaman yang berbeda-beda
                         if (index == 0) {
                           Navigator.push(
                             context,

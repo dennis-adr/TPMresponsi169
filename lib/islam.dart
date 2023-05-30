@@ -109,7 +109,7 @@ class _pageIslamState extends State<pageIslam> {
                     title.toString(),
                     style:
                     const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-                    maxLines: 2,
+                    maxLines: 4,
                   ),
                 ),
                 ClipRRect(

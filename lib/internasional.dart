@@ -109,7 +109,7 @@ class _pageInternasionalState extends State<pageInternasional> {
                     title.toString(),
                     style:
                     const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-                    maxLines: 2,
+                    maxLines: 4,
                   ),
                 ),
                 ClipRRect(
